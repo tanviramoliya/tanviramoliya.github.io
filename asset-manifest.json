@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/tanvi-ramoliya-portfolio/static/css/main.25d59cae.css",
-    "main.js": "/tanvi-ramoliya-portfolio/static/js/main.b9fb29ba.js",
-    "static/js/453.c165c666.chunk.js": "/tanvi-ramoliya-portfolio/static/js/453.c165c666.chunk.js",
-    "static/media/backtoit.png": "/tanvi-ramoliya-portfolio/static/media/backtoit.b570380bfca013a7c0eb.png",
-    "static/media/distinct.png": "/tanvi-ramoliya-portfolio/static/media/distinct.72a1e8ac6d98af99ba20.png",
-    "static/media/bg-light.png": "/tanvi-ramoliya-portfolio/static/media/bg-light.bac0efb485244a522981.png",
-    "static/media/bg-dark.png": "/tanvi-ramoliya-portfolio/static/media/bg-dark.f420c6b8458af72de935.png",
-    "static/media/dentware.png": "/tanvi-ramoliya-portfolio/static/media/dentware.19bf769cdb76708d26e2.png",
-    "static/media/hubilo.jpg": "/tanvi-ramoliya-portfolio/static/media/hubilo.72fc0e1cf25bc068f7a2.jpg",
-    "static/media/photo.jpg": "/tanvi-ramoliya-portfolio/static/media/photo.e61d4d54b96870932cfc.jpg",
-    "index.html": "/tanvi-ramoliya-portfolio/index.html",
-    "main.25d59cae.css.map": "/tanvi-ramoliya-portfolio/static/css/main.25d59cae.css.map",
-    "main.b9fb29ba.js.map": "/tanvi-ramoliya-portfolio/static/js/main.b9fb29ba.js.map",
-    "453.c165c666.chunk.js.map": "/tanvi-ramoliya-portfolio/static/js/453.c165c666.chunk.js.map"
+    "main.css": "/static/css/main.bc92dc2b.css",
+    "main.js": "/static/js/main.f09071a4.js",
+    "static/js/453.c165c666.chunk.js": "/static/js/453.c165c666.chunk.js",
+    "static/media/backtoit.png": "/static/media/backtoit.b570380bfca013a7c0eb.png",
+    "static/media/distinct.png": "/static/media/distinct.72a1e8ac6d98af99ba20.png",
+    "static/media/bg-light.png": "/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/bg-dark.png": "/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/dentware.png": "/static/media/dentware.19bf769cdb76708d26e2.png",
+    "static/media/hubilo.jpg": "/static/media/hubilo.72fc0e1cf25bc068f7a2.jpg",
+    "static/media/photo.jpg": "/static/media/photo.e61d4d54b96870932cfc.jpg",
+    "index.html": "/index.html",
+    "main.bc92dc2b.css.map": "/static/css/main.bc92dc2b.css.map",
+    "main.f09071a4.js.map": "/static/js/main.f09071a4.js.map",
+    "453.c165c666.chunk.js.map": "/static/js/453.c165c666.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.25d59cae.css",
-    "static/js/main.b9fb29ba.js"
+    "static/css/main.bc92dc2b.css",
+    "static/js/main.f09071a4.js"
   ]
 }
