@@ -1,0 +1,20 @@
+label {
+  font-size: 1.2rem;
+  font-family: 'DomaineDispNar-Medium', sans-serif;
+}
+.contact-body{
+  display: flex;
+  gap: 1rem;
+  justify-content : space-between;
+}
+.contact-item {
+   display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+}
+.contact-item a{
+   display: flex;
+  align-items: center;
+  justify-content: center;
+}
