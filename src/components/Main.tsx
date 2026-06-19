@@ -14,15 +14,20 @@ function Main() {
         </div>
         <div className="content">
           <div className="social_icons">
-            <a href="https://github.com/tanviramoliya" target="_blank" rel="noreferrer"><GitHubIcon/></a>
-            <a href="https://www.linkedin.com/in/tanvi-ramoliya/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
+            <a href="https://github.com/tanviramoliya" target="_blank" rel="noreferrer"><GitHubIcon /></a>
+            <a href="https://www.linkedin.com/in/tanvi-ramoliya/" target="_blank" rel="noreferrer"><LinkedInIcon /></a>
           </div>
           <h1>Tanvi Ramoliya</h1>
-          <p>Full Stack Engineer</p>
+          <p>Senior Full Stack Developer & Team Lead with 6.5+ years of professional experience specializing in the MERN stack,
+            TypeScript, Next.js, and NestJS. Proven track record of architecting scalable enterprise web applications, leading
+            high-performing cross-functional teams, and transforming complex business requirements into high-performance
+            digital products. Expert in driving frontend optimizations, designing clean microservices architectures, and
+            establishing robust engineering workflows that drastically accelerate time-to-market.
+          </p>
 
           <div className="mobile_social_icons">
-            <a href="https://github.com/tanviramoliya" target="_blank" rel="noreferrer"><GitHubIcon/></a>
-            <a href="https://www.linkedin.com/in/tanvi-ramoliya/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
+            <a href="https://github.com/tanviramoliya" target="_blank" rel="noreferrer"><GitHubIcon /></a>
+            <a href="https://www.linkedin.com/in/tanvi-ramoliya/" target="_blank" rel="noreferrer"><LinkedInIcon /></a>
           </div>
         </div>
       </div>

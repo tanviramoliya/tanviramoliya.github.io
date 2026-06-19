@@ -37,7 +37,7 @@
     }
 
     p {
-        font-size: 1.5em;
+        font-size: 1em;
         margin-block-start: 0px;
         margin-block-end: 0px;
     }
@@ -51,6 +51,7 @@
 
 .about-section .image-wrapper {
     z-index: 2;
+
     img {
         width: 150px;
         border-radius: 50%;
@@ -65,9 +66,9 @@
 
 @media screen {
     @media (max-width: 567px) {
-        .nav-left{
+        .nav-left {
             padding-top: 20px;
-            float:left;
+            float: left;
         }
 
         .nav-left img {
@@ -75,14 +76,14 @@
         }
 
         .nav-right {
-            float:right;
+            float: right;
         }
 
         .nav-right li {
             padding: 10px 15px;
-            list-style:none;
-            font-size:13px;
-            color:white;
+            list-style: none;
+            font-size: 13px;
+            color: white;
             width: 10%;
         }
 
@@ -127,7 +128,7 @@
             flex-direction: row;
             gap: 10px;
             color: white;
-    
+
             svg {
                 font-size: 1.8em;
             }

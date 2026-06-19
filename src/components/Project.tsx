@@ -3,35 +3,47 @@ import hubiloImage from '../assets/images/hubilo.jpg';
 import backtoitImage from '../assets/images/backtoit.png';
 import distinctImage from '../assets/images/distinct.png';
 import dentwareImage from '../assets/images/dentware.png';
+import kencorImage from '../assets/images/kencor.png';
+import efamoImage from '../assets/images/efamo.png';
 import '../assets/styles/Project.scss';
 
 function Project() {
-    return(
-    <div className="projects-container" id="projects">
-        <h1>Featured Projects</h1>
-        <div className="projects-grid">
-            <div className="project">
-                <a href="https://distinct.so/" target="_blank" rel="noreferrer"><img src={distinctImage} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://distinct.so/" target="_blank" rel="noreferrer"><h2>Distinct — Enterprise CX Platform</h2></a>
-                <p>Developed a scalable design system, schema-driven site builder, and an automated admin analytics portal using React, TypeScript, Node.js, and MongoDB.</p>
+    return (
+        <div className="projects-container" id="projects">
+            <h1>Featured Projects</h1>
+            <div className="projects-grid">
+                <div className="project">
+                    <a href="https://distinct.so/" target="_blank" rel="noreferrer"><img src={distinctImage} className="zoom" alt="thumbnail" width="100%" /></a>
+                    <a href="https://distinct.so/" target="_blank" rel="noreferrer"><h2>Distinct - Enterprise CX Platform</h2></a>
+                    <p>Engineered a scalable Design System and drag-and-drop Site Builder using React, TypeScript, and Node.js. This platform empowered non-technical users to launch production-ready websites in minutes, reducing overall development cycles by 35%.</p>
+                </div>
+                <div className="project">
+                    <a href="https://www.backtoit.io/" target="_blank" rel="noreferrer"><img src={backtoitImage} className="zoom" alt="thumbnail" width="100%" /></a>
+                    <a href="https://www.backtoit.io/" target="_blank" rel="noreferrer"><h2>Backtoit - Link Management</h2></a>
+                    <p>Designed a robust, high-performance link organization ecosystem by decoupling a Next.js frontend from a modular NestJS API. Integrated AWS S3 for secure asset handling and implemented granular RBAC authentication to manage enterprise-level user permissions.</p>
+                </div>
+                <div className="project">
+                    <a href="https://www.dentware.ro/" target="_blank" rel="noreferrer"><img src={dentwareImage} className="zoom" alt="thumbnail" width="100%" /></a>
+                    <a href="https://www.dentware.ro/" target="_blank" rel="noreferrer"><h2>Dentware - Dental Clinic Management</h2></a>
+                    <p>Developed an interactive scheduling calendar mapping doctor availability against incoming appointments, eliminating double-booking errors. Engineered a graphical diagnostic comparison module enabling clinicians to view side-by-side historical patient metrics and X-ray images concurrently.</p>
+                </div>
+                <div className="project">
+                    <a href="https://dash.hubilo.com/" target="_blank" rel="noreferrer"><img src={hubiloImage} className="zoom" alt="thumbnail" width="100%" /></a>
+                    <a href="https://dash.hubilo.com/" target="_blank" rel="noreferrer"><h2>Hubilo - Virtual Event Organiser</h2></a>
+                    <p>Optimized a high-volume virtual event platform by implementing advanced React memoization strategies and a refined Redux Toolkit architecture. Dramatically improved UI responsiveness and eradicated race conditions during peak concurrent user load.</p>
+                </div>
+                <div className="project">
+                    <img src={kencorImage} className="zoom" alt="thumbnail" width="100%" />
+                    <h2>Kencor Health - Health Ecosystem</h2>
+                    <p>Implemented a seamless real-time instant messaging network within a healthcare ecosystem using Strophe.js for XMPP-based communication, backed by comprehensive Jest test suites ensuring strict health-data presentation workflows.</p>
+                </div>
+                <div className="project">
+                    <img src={efamoImage} className="zoom" alt="thumbnail" width="100%" />
+                    <h2>efamo - Geosocial Networking & Dating App</h2>
+                    <p>Built a secure full-stack social platform with multi-channel OAuth (Phone, Email, Facebook), a location-based match engine, and a multi-role Admin Panel with strict permission controls for managing user profiles and system credit points.</p>
+                </div>
             </div>
-            <div className="project">
-                <a href="https://www.backtoit.io/" target="_blank" rel="noreferrer"><img src={backtoitImage} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://www.backtoit.io/" target="_blank" rel="noreferrer"><h2>Backtoit — Link Collection & Organization App</h2></a>
-                <p>Architected a full-stack link organization app featuring a Next.js frontend, a NestJS backend, secure authentication, and AWS S3 storage integration.</p>
-            </div>
-            <div className="project">
-                <a href="https://www.dentware.ro/" target="_blank" rel="noreferrer"><img src={dentwareImage} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://www.dentware.ro/" target="_blank" rel="noreferrer"><h2>Aramis — Security Risk Management</h2></a>
-                <p>Built real-time security visualization dashboards utilizing RxJS observables for complex stream handling and React Query for efficient data caching.</p>
-            </div>
-            <div className="project">
-                <a href="https://dash.hubilo.com/" target="_blank" rel="noreferrer"><img src={hubiloImage} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://dash.hubilo.com/" target="_blank" rel="noreferrer"><h2>Hubilo — Virtual Event Organiser</h2></a>
-                <p>Engineered end-to-end features and advanced memoization patterns for a large-scale virtual event platform using React, Node.js, and Redux.</p>
-            </div>           
         </div>
-    </div>
     );
 }
 
