@@ -1,22 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.0aa97866.css",
-    "main.js": "/static/js/main.f09071a4.js",
+    "main.css": "/static/css/main.93084584.css",
+    "main.js": "/static/js/main.3b6c1602.js",
     "static/js/453.c165c666.chunk.js": "/static/js/453.c165c666.chunk.js",
     "static/media/backtoit.png": "/static/media/backtoit.b570380bfca013a7c0eb.png",
     "static/media/distinct.png": "/static/media/distinct.72a1e8ac6d98af99ba20.png",
+    "static/media/efamo.png": "/static/media/efamo.352b870b218d2031766d.png",
     "static/media/bg-light.png": "/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/kencor.png": "/static/media/kencor.300a6907a2c3a9e14a20.png",
     "static/media/bg-dark.png": "/static/media/bg-dark.f420c6b8458af72de935.png",
     "static/media/dentware.png": "/static/media/dentware.19bf769cdb76708d26e2.png",
     "static/media/hubilo.jpg": "/static/media/hubilo.72fc0e1cf25bc068f7a2.jpg",
-    "static/media/photo.jpg": "/static/media/photo.e61d4d54b96870932cfc.jpg",
+    "static/media/photo.jpg": "/static/media/photo.ebdfd4bee6f6a8283bca.jpg",
     "index.html": "/index.html",
-    "main.0aa97866.css.map": "/static/css/main.0aa97866.css.map",
-    "main.f09071a4.js.map": "/static/js/main.f09071a4.js.map",
+    "main.93084584.css.map": "/static/css/main.93084584.css.map",
+    "main.3b6c1602.js.map": "/static/js/main.3b6c1602.js.map",
     "453.c165c666.chunk.js.map": "/static/js/453.c165c666.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0aa97866.css",
-    "static/js/main.f09071a4.js"
+    "static/css/main.93084584.css",
+    "static/js/main.3b6c1602.js"
   ]
 }
